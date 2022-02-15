@@ -13,7 +13,7 @@ public class Main {
 		int essai = 0;
 
 		// affichage console
-		System.out.println("Entrez un numéro entre 0 et 200:");
+		System.out.println("Veuillez entrer un numéro entre 0 et 200 :");
 
 		// entrée console
 		@SuppressWarnings("resource")
